@@ -1,6 +1,6 @@
 
 # 🟦 **A) README.md (GitHub‑Version)**  
-*(Du kannst das exakt so in dein Repository packen.)*
+
 
 ---
 
